@@ -13,70 +13,70 @@ overall
 potential
 value eur
 wage eur
-player_positions
-preferred_foot
-international_reputation
-weak_foot
-skill_moves
-work_rate
-body_type
-real_face
-release_clause_eur
-player_tags
-team_position
-team_jersey_number
-loaned_from
+player positions
+preferred foot
+international reputation
+weak foot
+skill moves
+work rate
+body type
+real face
+release clause eur
+player tags
+team position
+team jersey number
+loaned from
 joined
-contract_valid_until
-nation_position
-nation_jersey_number
+contract valid until
+nation osition
+nation Jersey number
 pace
 shooting
 passing
 dribbling
 defending
 physic
-gk_diving
-gk_handling
-gk_kicking
-gk_reflexes
-gk_speed
-gk_positioning
-player_traits
-attacking_crossing
-attacking_finishing
-attacking_heading_accuracy
-attacking_short_passing
-attacking_volleys
-skill_dribbling
-skill_curve
-skill_fk_accuracy
-skill_long_passing
-skill_ball_control
-movement_acceleration
-movement_sprint_speed
-movement_agility
-movement_reactions
-movement_balance
-power_shot_power
-power_jumping
-power_stamina
-power_strength
-power_long_shots
-mentality_aggression
-mentality_interceptions
-mentality_positioning
-mentality_vision
-mentality_penalties
-mentality_composure
-defending_marking
-defending_standing_tackle
-defending_sliding_tackle
-goalkeeping_diving
-goalkeeping_handling
-goalkeeping_kicking
-goalkeeping_positioning
-goalkeeping_reflexes
+gk diving
+gk andling
+gk kicking
+gk reflexes
+gk speed
+gk positioning
+player traits
+attacking crossing
+attacking finishing
+attacking heading accuracy
+attacking Short passing
+attacking volleys
+skill dribbling
+skill curve
+skill_ fk accuracy
+skill long passing
+skill ball control
+movement acceleration
+movement sprint speed
+movement agility
+movement reactions
+movement balance
+power shot power
+power jumping
+power stamina
+power strength
+power long shots
+mentality aggression
+mentality interceptions
+mentality positioning
+mentality vision
+mentality penalties
+mentality composure
+defending marking
+defending standing tackle
+defending Sliding tackle
+goalkeeping diving
+goalkeeping handling
+goalkeeping kicking
+goalkeeping positioning
+goalkeeping reflexes
 ls
 st
 rs
